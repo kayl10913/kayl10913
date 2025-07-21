@@ -2,6 +2,12 @@
 
 Welcome to my GitHub profile!
 
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/M0nica/M0nica/main/resources/rainbow-pixel-bar.gif" width="100%" alt="animated pixel bar">
+</p>
+
 ## 👨‍💻 About Me
 
 I'm Kayl Matthew D. Calingasan, a passionate developer who loves building projects and learning new technologies. I enjoy working on a variety of projects, from web development to software solutions, and I'm always eager to collaborate and contribute to open source.
@@ -14,7 +20,8 @@ I'm Kayl Matthew D. Calingasan, a passionate developer who loves building projec
 ## 🛠️ Technologies & Tools
 
 - Languages: PHP, Java, HTML, CSS, JavaScript
-- Frameworks: (Add any frameworks you use, e.g., Laravel, Spring, etc.)
+- Frameworks: React, Laravel, and more
+- Databases: MySQL, MongoDB, and PostgreSQL
 - Tools: Git, GitHub, VS Code
 
 ## 📈 GitHub Stats & Languages
