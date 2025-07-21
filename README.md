@@ -14,7 +14,6 @@ I'm Kayl Matthew D. Calingasan, a passionate developer who loves building projec
 
 - 🌱 Currently learning: New frameworks and best practices in software development
 - 💡 Interested in: Web development, PHP, Java, and creative coding
-- 📫 How to reach me: (Add your preferred contact method here, e.g., email or LinkedIn)
 - ⚡ Fun fact: I enjoy exploring new tech and sharing knowledge with others!
 
 ## 🛠️ Technologies & Tools
