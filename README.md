@@ -19,7 +19,6 @@ I'm Kayl Matthew D. Calingasan, a passionate developer who loves building projec
 
 ## 📈 GitHub Stats & Languages
 
-<!-- Replace with your own GitHub stats if you like -->
 ![Kayl's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayl10913&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kayl10913&layout=compact&theme=radical&hide=dart)
