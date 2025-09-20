@@ -23,18 +23,6 @@ I'm Kayl Matthew D. Calingasan, a passionate developer who loves building projec
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kayl10913&layout=compact&theme=radical&hide=dart)
 
-## 📂 Featured Projects
-
-Here are some of my public repositories:
-
-- [SafeBite](https://github.com/kayl10913/SafeBite)  
-- [SmartStudents](https://github.com/kayl10913/SmartStudents)  
-- [Dine-Watch](https://github.com/kayl10913/Dine-Watch)  
-- [DentalClinic](https://github.com/kayl10913/DentalClinic)  
-- [Portfolio](https://github.com/kayl10913/Portfolio)  
-
-Check out my repositories for more!
-
 ## 🌐 Let's Connect
 
 - [GitHub](https://github.com/kayl10913)
