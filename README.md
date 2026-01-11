@@ -17,12 +17,6 @@ I'm Kayl Matthew D. Calingasan, a passionate developer who loves building projec
 - Databases: MySQL, MongoDB, and PostgreSQL
 - Tools: Git, GitHub, VS Code
 
-## GitHub Stats & Languages
-
-![Kayl's GitHub stats](https://github-readme-stats.vercel.app/api?username=kayl10913&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kayl10913&layout=compact&theme=radical&hide=dart)
-
 ## Let's Connect
 
 - [GitHub](https://github.com/kayl10913)
